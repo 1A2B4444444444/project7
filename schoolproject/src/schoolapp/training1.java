@@ -7,6 +7,9 @@ public class training1 {
          double a = 30;
          int d = (int)a;
          System.out.println(d);
+         
+         // this is updated
+         
 	}
 
 }
